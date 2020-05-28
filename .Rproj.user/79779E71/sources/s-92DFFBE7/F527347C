@@ -1,0 +1,32 @@
+{
+    "id": "F527347C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1586717208393.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "orderlines_tbl",
+        "caption": "orderlines_tbl",
+        "totalObservations": 15644,
+        "displayedObservations": 15644,
+        "variables": 7,
+        "cacheKey": "E4F8C866",
+        "object": "orderlines_tbl",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=orderlines_tbl&cache_key=E4F8C866&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1586712234,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1586717208393,
+    "read_only": false,
+    "read_only_alternatives": []
+}

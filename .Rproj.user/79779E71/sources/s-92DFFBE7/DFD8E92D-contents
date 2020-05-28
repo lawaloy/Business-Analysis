@@ -1,0 +1,15 @@
+pkgs_cran <- c (
+    "fs",
+    "readxl",
+    "writexl",
+    "odbc",
+    "RSQLite",
+    "tidyverse",
+    "lubridate",
+    "tidyquant",
+    "tidymodels",
+    "umap",
+    "devtools"
+)
+install.packages("fs")
+install.packages(pkgs_cran)
